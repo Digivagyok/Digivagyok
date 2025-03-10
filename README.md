@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+## I am Márton Szabó
+## Current job: student
 
 <!--
 **Digivagyok/Digivagyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
